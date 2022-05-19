@@ -1,0 +1,7 @@
+vetor = []
+
+for n in(0, 5):
+    num = int(input("Infome {}/20 valor para o vetor: ".format(n+1)))
+    vetor.append(num)
+    
+print("A soma do vetor é {0}".format(sum(vetor)))

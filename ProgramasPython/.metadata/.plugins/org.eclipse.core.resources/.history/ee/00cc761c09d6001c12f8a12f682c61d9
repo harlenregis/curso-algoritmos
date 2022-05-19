@@ -1,0 +1,8 @@
+vetor = []
+tem_maior_50 = False
+
+for n in range(0, 5):
+    num = int(input("Informe o {0}º valor para o vetor: ".format(n+1)))
+    vetor.append(num)
+    
+    

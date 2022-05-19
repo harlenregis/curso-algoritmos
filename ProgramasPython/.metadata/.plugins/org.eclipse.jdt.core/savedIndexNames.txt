@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/harlen/eclipse-workspace/ProgramasPython/.metadata/.plugins/org.eclipse.jdt.core
+3496236615.index
+1865797976.index
+4255359567.index
